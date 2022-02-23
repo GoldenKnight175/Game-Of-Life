@@ -1,0 +1,11 @@
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\bin\Debug\Game of Life.exe.config
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\bin\Debug\Game of Life.exe
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\bin\Debug\Game of Life.pdb
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\obj\Debug\Game of Life.csproj.AssemblyReference.cache
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\obj\Debug\Game of Life.csproj.SuggestedBindingRedirects.cache
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\obj\Debug\Game_of_Life.Form1.resources
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\obj\Debug\Game_of_Life.Properties.Resources.resources
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\obj\Debug\Game of Life.csproj.GenerateResource.cache
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\obj\Debug\Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\obj\Debug\Game of Life.exe
+C:\Users\brave\OneDrive\Desktop\College (FS)\Project & Portfolio 1\Week 1\Game of Life\Game of Life\obj\Debug\Game of Life.pdb
